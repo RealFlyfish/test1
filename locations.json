@@ -1,6 +1,0 @@
-[
-{"Id":"c691bdde-49c9-4ac3-b844-64422d100e8e","Title":"First location 2","Description":"This is an item description.","Position":{"Latitude":53.376427,"Longitude":-6.612282},"Visited":false},
-{"Id":"66fab7bd-78c4-410a-9f8c-e163c71ea6d7","Title":"Second location","Description":"This is an item description.","Position":{"Latitude":53.381321,"Longitude":-6.581967},"Visited":false},
-{"Id":"88305d76-6bfd-4b7f-883c-e0fcf27d0ccc","Title":"Third location","Description":"This is an item description.","Position":{"Latitude":53.375901,"Longitude":-6.60982},"Visited":false},
-{"Id":"752b99cd-1a7c-4ef9-9c2b-78b399113942","Title":"Fourth location","Description":"This is an item description.","Position":{"Latitude":53.376262,"Longitude":-6.606763},"Visited":false}
-]
